@@ -1,0 +1,137 @@
+[
+  {
+    "deletedForSender": false,
+    "deletedForReceiver": false,
+    "sender": "naz",
+    "receiver": "ilknur",
+    "content": "merhaba",
+    "timestamp": "2025-12-22 17:07:08",
+    "read": true
+  },
+  {
+    "deletedForSender": false,
+    "deletedForReceiver": false,
+    "sender": "naz",
+    "receiver": "ilknur",
+    "content": "nasılsın",
+    "timestamp": "2025-12-22 17:07:11",
+    "read": true
+  },
+  {
+    "deletedForSender": false,
+    "deletedForReceiver": false,
+    "sender": "naz",
+    "receiver": "fahri",
+    "content": "selam",
+    "timestamp": "2025-12-22 17:07:21",
+    "read": true
+  },
+  {
+    "deletedForSender": false,
+    "deletedForReceiver": false,
+    "sender": "naz",
+    "receiver": "murat",
+    "content": "naber nasılsın",
+    "timestamp": "2025-12-22 17:07:34",
+    "read": true
+  },
+  {
+    "deletedForSender": false,
+    "deletedForReceiver": false,
+    "sender": "ilknur",
+    "receiver": "naz",
+    "content": "iyiyim",
+    "timestamp": "2025-12-22 17:07:45",
+    "read": true
+  },
+  {
+    "deletedForSender": false,
+    "deletedForReceiver": false,
+    "sender": "ilknur",
+    "receiver": "naz",
+    "content": "sen nasılsın?",
+    "timestamp": "2025-12-22 17:07:48",
+    "read": true
+  },
+  {
+    "deletedForSender": false,
+    "deletedForReceiver": false,
+    "sender": "ilknur",
+    "receiver": "murat",
+    "content": "java projesi bitti!!!",
+    "timestamp": "2025-12-22 17:08:12",
+    "read": true
+  },
+  {
+    "deletedForSender": false,
+    "deletedForReceiver": false,
+    "sender": "murat",
+    "receiver": "ilknur",
+    "content": "tm",
+    "timestamp": "2025-12-22 17:08:36",
+    "read": false
+  },
+  {
+    "deletedForSender": false,
+    "deletedForReceiver": true,
+    "sender": "murat",
+    "receiver": "fahri",
+    "content": "günaydın",
+    "timestamp": "2025-12-22 17:08:52",
+    "read": true
+  },
+  {
+    "deletedForSender": true,
+    "deletedForReceiver": false,
+    "sender": "fahri",
+    "receiver": "murat",
+    "content": "yeni mi uyandın",
+    "timestamp": "2025-12-22 17:09:32",
+    "read": true
+  },
+  {
+    "deletedForSender": false,
+    "deletedForReceiver": false,
+    "sender": "fahri",
+    "receiver": "naz",
+    "content": "selam",
+    "timestamp": "2025-12-22 17:11:21",
+    "read": true
+  },
+  {
+    "deletedForSender": false,
+    "deletedForReceiver": false,
+    "sender": "naz",
+    "receiver": "fahri",
+    "content": "selam",
+    "timestamp": "2025-12-31 09:45:37",
+    "read": true
+  },
+  {
+    "deletedForSender": false,
+    "deletedForReceiver": false,
+    "sender": "nisa",
+    "receiver": "merve",
+    "content": "selam",
+    "timestamp": "2025-12-31 09:46:59",
+    "read": false
+  },
+  {
+    "deletedForSender": false,
+    "deletedForReceiver": false,
+    "sender": "nisa",
+    "receiver": "naz",
+    "content": "hey",
+    "timestamp": "2025-12-31 09:47:04",
+    "read": false
+  },
+  {
+    "deletedForSender": false,
+    "deletedForReceiver": false,
+    "sender": "naz",
+    "receiver": "fahri",
+    "content": "selam",
+    "timestamp": "2025-12-31 10:44:08",
+    "read": false
+  }
+]
